@@ -4,3 +4,4 @@ create a new branch with name "dev"
 test fast-forward
 remote with gitskills_dev
 git is a free software
+testing switch to master
