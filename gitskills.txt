@@ -3,3 +3,4 @@ Creating a new branch is quick and simple.
 create a new branch with name "dev"
 test fast-forward
 remote with gitskills_dev
+git is a free software
